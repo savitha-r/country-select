@@ -70,7 +70,7 @@ module ActionView
         "Togo", "Tokelau", "Tonga", "Trinidad and Tobago", "Tunisia", "Turkey", "Turkmenistan",
         "Turks and Caicos Islands", "Tuvalu", "Uganda", "Ukraine", "United Arab Emirates", "United Kingdom",
         "United States", "United States Minor Outlying Islands", "Uruguay", "Uzbekistan", "Vanuatu",
-				"Venezuela, Bolivarian Republic of", "Viet Nam", "Virgin Islands, British", "Virgin Islands, U.S.",
+				"Venezuela, Bolivarian Republic of", "Vietnam", "Virgin Islands, British", "Virgin Islands, U.S.",
 				"Wallis and Futuna", "Western Sahara", "Yemen", "Zambia", "Zimbabwe"] unless const_defined?("COUNTRIES")
     end
 
